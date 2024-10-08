@@ -1,0 +1,35 @@
+Pokémon:
+3 Lugia V SIT 138 basic
+3 Lugia VSTAR SIT 139
+3 Archeops SIT 147
+2 Lumineon V BRS 40 basic
+1 Stoutland V BST 117 basic
+1 Radiant Charizard CRZ 20 basic
+1 Yveltal SHF 46 basic
+1 Raikou VIV 50 basic
+1 Oranguru SSH 148 basic
+1 Pumpkaboo EVS 76 basic
+1 Manaphy BRS 41 basic
+1 Dunsparce FST 207 basic
+
+Trainer:
+3 Professor's Research BRS 147 supporter
+1 Professor Burnet SIT 125 supporter
+2 Marnie SSH 169 supporter
+3 Boss's Orders BRS 132 supporter
+1 Irida ASR 147 supporter
+4 Quick Ball FST 237 search
+4 Ultra Ball BRS 150 search
+4 Evolution Incense SSH 163 search
+1 Escape Rope BST 125
+1 Lost Vacuum LOR 162
+1 Choice Belt BRS 135
+
+Energy:
+4 Powerful Colorless Energy DAA 176
+4 Aurora Energy SSH 186
+3 Capture Energy RCL 171
+2 Double Turbo Energy BRS 151
+1 Heat Fire Energy DAA 174
+1 Speed Lightning Energy RCL 173
+1 V Guard Energy SIT 169"""
